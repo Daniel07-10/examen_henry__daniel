@@ -123,38 +123,40 @@ footer{
     }
 
     .seccion-imagenes{
-        justify-content: space-between;
+        flex-direction: column;
         margin: 0;
         padding: 0;
         width: 100vh;
     }
     .contenedor1{
-        width: 80px;
+        margin-top: 0px;
+        width: 420px;
         height: 410px;
     }
     .contenedor2{
-        width: 80px;
+        width: 420px;
         height: 410px;
     }
     .contenedor3{
-        width: 80px;
+        margin-top: 20px;
+        width: 420px;
         height: 410px;
     }
 
     .titulo{
         font-size: 15px;
-        width: 10px;
+        width: 420px;
     }
     .parrafo1{
-        width: 80px;
+        width: 420px;
         font-size: 12px;
     }
     .parrafo2{
-        width: 80px;
+        width: 420px;
         font-size: 12px;
     }
     .parrafo3{
-        width: 80px;
+        width: 420px;
         font-size: 12px;    
     }
     .hr-footer{
